@@ -29,7 +29,7 @@ Developer focused on building practical web and mobile applications, API integra
 | **AI Client Brief Assistant** | AI-powered SaaS tool that transforms unstructured client requests into structured technical project briefs with strict requirement grounding. | React 19, TypeScript, Supabase Auth, PostgreSQL (RLS), Edge Functions, CI/CD | [Live Demo](https://emioj89.github.io/ai-client-brief-assistant/) \| [Repository](https://github.com/emioj89/ai-client-brief-assistant) |
 | **ClientFlow CRM** | Lightweight CRM demonstrating authentication, secure CRUD operations, and per-user data isolation. | React, TypeScript, Supabase Auth, PostgreSQL, Row Level Security, Vitest | [Live Demo](https://emioj89.github.io/clientflow-crm/) \| [Repository](https://github.com/emioj89/clientflow-crm) |
 | **API Dashboard Demo** | Responsive dashboard demonstrating public REST API integration, data handling, filtering, and UI state management. | React, TypeScript, REST API, Vitest, CI/CD | [Live Demo](https://emioj89.github.io/api-dashboard-demo/) \| [Repository](https://github.com/emioj89/api-dashboard-demo) |
-| **TaskFlow** | Task management dashboard demonstrating modular component architecture, state management, and responsive UI design. | React, TypeScript, CSS Modules, Vite | [Live Demo](https://emioj89.github.io/react-task-dashboard/) \| [Repository](https://github.com/emioj89/react-task-dashboard) |
+| **TaskFlow** | Task management dashboard demonstrating modular component architecture, state management, and responsive UI design. | React, TypeScript, CSS, Vite | [Live Demo](https://emioj89.github.io/react-task-dashboard/) \| [Repository](https://github.com/emioj89/react-task-dashboard) |
 | **Automation Toolkit** | Collection of Python command-line automation tools focused on practical file and data processing workflows. | Python, CLI, Automated Tests, GitHub Actions | [Repository](https://github.com/emioj89/automation-toolkit) |
 
 ---
@@ -42,7 +42,7 @@ Currently developing a cross-platform fitness application built with **React Nat
 - Workout routine creation & customization
 - Exercise catalog & instant search
 - Real-time workout tracking & training statistics
-- Persistent local & remote data storage
+- Persistent data handling
 - Multi-language architecture (i18n)
 - External API & planned health/wearable integrations
 
